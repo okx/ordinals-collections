@@ -19,16 +19,6 @@ jobs:
       run: cargo build --verbose
     - name: Run tests
       run: cargo test --verbose
-    - name: Set up Node.js
-      uses: actions/setup-node@v4
-      with:
-      node-version: '14'
-    - name: Print Node.js version
-      run: node --version
-    - name: Print npm version
-      run: npm --version
-    - name: Install dependencies
-      run: npm install
     - name: Run file update script
       run: |
       # Assuming you have a script named "update-files.sh" in your repository
