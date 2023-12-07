@@ -21,7 +21,6 @@ jobs:
       run: cargo test --verbose
     - name: Run file update script
       run: |
-        # Assuming you have a script named "update-files.sh" in your repository
         chmod +x update-files.sh
         ./update-files.sh
       env:
