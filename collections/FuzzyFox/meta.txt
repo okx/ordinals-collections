@@ -1,0 +1,10 @@
+{
+  "name": "Fuzzy Fox",                    # inscription name
+  "inscription_icon": "",        # (optional) collection cover inscription id
+  "icon": "",                    # (optional) collection cover icon url
+  "slug": "fuzzyfox",                    # directory name
+  "description": "A 10k Fuzzy Fox 🦊 Bitcoin NFT Collection! New FOX frens have landed in JOMO Land, which is full of life and hope. Let's build.",             # collection description
+  "twitter_link": "https://twitter.com/JOMOHippo",            # official twitter
+  "discord_link": "",            # official discord
+  "website_link": "https://jomohippo.land/"             # official website
+}
