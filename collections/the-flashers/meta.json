@@ -1,10 +1,1 @@
-{
-  "name": "Fuzzy Fox",                    # inscription name
-  "inscription_icon": "",        # (optional) collection cover inscription id
-  "icon": "",                    # (optional) collection cover icon url
-  "slug": "fuzzyfox",                    # directory name
-  "description": "A 10k Fuzzy Fox 🦊 Bitcoin NFT Collection! New FOX frens have landed in JOMO Land, which is full of life and hope. Let's build.",             # collection description
-  "twitter_link": "https://twitter.com/JOMOHippo",            # official twitter
-  "discord_link": "",            # official discord
-  "website_link": "https://jomohippo.land/"             # official website
-}
+{"name":"Flashing Bandits","slug":"the-flashers","supply":"508","description":"Once boredom strikes, the bandits go bananas. Recursive Inscriptions. 1st Derivative Collection of Bitcoin Bandits.","twitter_link":"https://twitter.com/r0b0sapiens","discord_link":"","website_link":"","inscription_icon":"a16910ff19205c1db790f84b4fccd79977f2de14ad9d2fccb3cb35b13dac807fi0"}
