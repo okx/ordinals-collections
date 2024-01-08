@@ -86294,7 +86294,12 @@
         "id": "08c0a8c305d2883d1cfd30ef6bb7f397d0dafbf0ca28cdc02105dc9c25f2fc3di0",
         "meta": {
             "name": "Bitblock #6488",
-            "attributes": []
+            "attributes": [
+                {
+                    "trait_type": "Collections",
+                    "value": "BTC Paradise Pixels"
+                }
+            ]
         }
     },
     {
@@ -86438,6 +86443,69 @@
                 {
                     "trait_type": "Collections",
                     "value": "Ordinal Bears"
+                }
+            ]
+        }
+    },
+    {
+        "id": "4f66434b168ef211887ebffd9573fd6f0e766ae77b2bc054336dfd375fa5cfe4i0",
+        "meta": {
+            "name": "Bitblock #6501",
+            "attributes": [
+                {
+                    "trait_type": "Clubs",
+                    "value": "Sub 10k"
+                },
+                {
+                    "trait_type": "Collections",
+                    "value": "Anti NFT BTC Maxis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "979f352e1e815e471a491710d0b5a5cde67cc99dc3c612a652d236473fc12c37i0",
+        "meta": {
+            "name": "Bitblock #6502",
+            "attributes": []
+        }
+    },
+    {
+        "id": "3ed84d2bd0cca256971c718348efe5874607f9025a7053b15bea93b56a9916f5i0",
+        "meta": {
+            "name": "Bitblock #6503",
+            "attributes": [
+                {
+                    "trait_type": "Collections",
+                    "value": "Bitmaps by OTO"
+                }
+            ]
+        }
+    },
+    {
+        "id": "2a2888e55ccdc8c83c8bfc5138be15cfdbd6ff40ef86fa799d73d8524362cb59i0",
+        "meta": {
+            "name": "Bitblock #6504",
+            "attributes": [
+                {
+                    "trait_type": "Clubs",
+                    "value": "Sub 100k"
+                },
+                {
+                    "trait_type": "Collections",
+                    "value": "Bitcoin Frogs"
+                }
+            ]
+        }
+    },
+    {
+        "id": "c26766e257a8039cdadf89815827cb29816028dd54e3d02b37905f6fa118c242i0",
+        "meta": {
+            "name": "Bitblock #6505",
+            "attributes": [
+                {
+                    "trait_type": "Collections",
+                    "value": "Van Gogh's painting"
                 }
             ]
         }
