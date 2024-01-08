@@ -1,9 +1,8 @@
 {
-  "name": "Blesstiger(♆)",                    # inscription name
-  "icon": "https://blesstiger.oss-ap-northeast-2.aliyuncs.com/7dc19b23d37916b2269c32042dc5e947.gif",                    # (optional) collection cover icon url
-  "slug": "blesstiger",                    # directory name
-  "description": "Blesstiger, the first to adopt the BGP protocol and showcase trident inscription artworks, is also the first performance art to reveal the flaws of the Ordinals system. It represents the pursuit of eternity, universal existence, and continuous prosperity, infusing Bitcoin's unique value and future rarity into each artwork. Blesstiger isn't just an NFT initiative but a vanguard in using Bitcoin as a production medium, driving innovation with upgrades like BGP protocol version 1.1 for enhanced virtual goods minting and overcoming file size limits. It commits to technological advancement for absolute privacy and promotes Bitcoin's integration with commerce, all while honoring decentralization. Our journey pays tribute to Satoshi Nakamoto's spirit, envisioning Bitcoin as the potential anchor of world value, akin to another form of gold captured from the Tai Chi by Satoshi's profound mathematical genius.",             # collection description
-  "twitter_link": "https://twitter.com/blesstiger",            # official twitter
-  "discord_link": "https://discord.gg/KYXSTS9rXE",            # official discord
-  "website_link": "https://blesstiger.com"             # official website
-}
+  "name": "Blesstiger(♆)",
+  "icon": "https://blesstiger.oss-ap-northeast-2.aliyuncs.com/7dc19b23d37916b2269c32042dc5e947.gif",
+  "slug": "blesstiger",
+  "description": "Blesstiger, the first to adopt the BGP protocol and showcase trident inscription artworks, is also the first performance art to reveal the flaws of the Ordinals system. It represents the pursuit of eternity, universal existence, and continuous prosperity, infusing Bitcoin's unique value and future rarity into each artwork. Blesstiger isn't just an NFT initiative but a vanguard in using Bitcoin as a production medium, driving innovation with upgrades like BGP protocol version 1.1 for enhanced virtual goods minting and overcoming file size limits. It commits to technological advancement for absolute privacy and promotes Bitcoin's integration with commerce, all while honoring decentralization. Our journey pays tribute to Satoshi Nakamoto's spirit, envisioning Bitcoin as the potential anchor of world value, akin to another form of gold captured from the Tai Chi by Satoshi's profound mathematical genius.",
+  "twitter_link": "https://twitter.com/blesstiger",
+  "discord_link": "https://discord.gg/TeRae7wpfM",
+  "website_link": "https://blesstiger.com"
