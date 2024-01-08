@@ -1,9 +1,10 @@
 {
-  "description": "",
-  "discord_link": "https://discord.com/invite/ZgJ5mWmBwS",
-  "icon": "https://cdn.discordapp.com/attachments/941724718271180810/1111735087453708348/zZ3uEdwV.png",
   "name": "Bitamigos",
+  "inscription_icon": "0872037160b88185e1ce657f3eaccea9146532a5b191b09311abf415f2f73c2ci0",
+  "supply": "20000",
   "slug": "bitamigos",
+  "description": "The first 20k NFT collection on Bitcoin.",
   "twitter_link": "https://twitter.com/_Bitamigos_",
+  "discord_link": "https://discord.gg/ZgJ5mWmBwS",
   "website_link": "https://bitamigos.club"
 }
