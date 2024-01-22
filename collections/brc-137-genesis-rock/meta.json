@@ -1,0 +1,10 @@
+{
+  "name": "BRC-137 Genesis Rock",
+  "slug": "brc-137-genesis-rock",
+  "supply": "21",
+  "description": "BRC-137 Genesis Rocks are Delegators within the protocol that aims to introduce value-driven social graphs into the Bitcoin ecosystem through composable DIDs. Holders of the Genesis Rocks can reduce DID users' on-chain gas fees by aggregating transactions to earn commissions.",
+  "twitter_link": "https://twitter.com/brc137io",
+  "discord_link": "",
+  "website_link": "https://www.brc137.io/",
+  "inscription_icon": "7f58b92cc54b86b1795c3d8cfc8b38a019b266bb8ff422d4537925ef1e784e88i0"
+}
