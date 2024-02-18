@@ -19,26 +19,7 @@
       ]
     }
   },
-  {
-    "id": "ee795b6978ffb4aa1fd7d43f1021131ff59adf3e70c4ff8d6a9ed7b1e2c7e802i0",
-    "meta": {
-      "name": "Ordi Cat #761",
-      "attributes": [
-        {
-          "trait_type": "TYPE",
-          "value": "Cat White"
-        },
-        {
-          "trait_type": "GLASSES",
-          "value": "Eyes Mutant"
-        },
-        {
-          "trait_type": "Helmet",
-          "value": "Baseball Cap Blue"
-        }
-      ]
-    }
-  },
+
   {
     "id": "993386eec85c047f39d5600e0e777cde905b8594d2cec83bacb6f00dcbf2b415i0",
     "meta": {
@@ -75,6 +56,26 @@
         {
           "trait_type": "Helmet",
           "value": "Knit Mix Red"
+        }
+      ]
+    }
+  },
+    {
+    "id": "ee795b6978ffb4aa1fd7d43f1021131ff59adf3e70c4ff8d6a9ed7b1e2c7e802i0",
+    "meta": {
+      "name": "Ordi Cat #761",
+      "attributes": [
+        {
+          "trait_type": "TYPE",
+          "value": "Cat White"
+        },
+        {
+          "trait_type": "GLASSES",
+          "value": "Eyes Mutant"
+        },
+        {
+          "trait_type": "Helmet",
+          "value": "Baseball Cap Blue"
         }
       ]
     }
@@ -179,6 +180,26 @@
       ]
     }
   },
+    {
+    "id": "a6e33e2763b2e15ef1ba4ed44df358b4ec2a2dcd2f74f99331ecb9e8a0662df9i0",
+    "meta": {
+      "name": "Ordi Cat #1641",
+      "attributes": [
+      {
+        "trait_type": "TYPE",
+        "value": "Cat Brown"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "Eyes Yellow"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Spartan Helmet"
+      }
+      ]
+    }
+  },
   {
     "id": "780de371909574be2f19aced7dcb62a32bcedca5cb7980aed46b683b8263d4a4i0",
     "meta": {
@@ -196,6 +217,27 @@
           "trait_type": "Helmet",
           "value": "Backwards Cap Yellow"
         }
+      ]
+    }
+  },
+  
+      {
+    "id": "5c5fbf6ef30c00600fb03904df0820d0777e238b51af962e37fafedeb87a6f0ci0",
+    "meta": {
+      "name": "Ordi Cat #1898",
+      "attributes": [
+      {
+        "trait_type": "TYPE",
+        "value": "Cat White"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "3D Glasses"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Backwards Cap Green"
+      }
       ]
     }
   },
