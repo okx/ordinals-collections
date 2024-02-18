@@ -261,26 +261,7 @@
       ]
     }
   },
-  {
-    "id": "a3f9d1a93924b254950cb5d4b65d1f66e82f3ef0051c2985d47b8f87d4f20dd1i0",
-    "meta": {
-      "name": "Ordi Cat #2118",
-      "attributes": [
-        {
-          "trait_type": "TYPE",
-          "value": "Cat Light Brown"
-        },
-        {
-          "trait_type": "GLASSES",
-          "value": "Eyes GY"
-        },
-        {
-          "trait_type": "Helmet",
-          "value": "Knit Green"
-        }
-      ]
-    }
-  },
+
   {
     "id": "ec7efd04788cb1d3bde912c7cfc4a24a689289f0d982f265e1a9fbb6cb5b76c2i0",
     "meta": {
@@ -297,6 +278,26 @@
         {
           "trait_type": "Helmet",
           "value": "Wizard Hat"
+        }
+      ]
+    }
+  },
+    {
+    "id": "a3f9d1a93924b254950cb5d4b65d1f66e82f3ef0051c2985d47b8f87d4f20dd1i0",
+    "meta": {
+      "name": "Ordi Cat #2118",
+      "attributes": [
+        {
+          "trait_type": "TYPE",
+          "value": "Cat Light Brown"
+        },
+        {
+          "trait_type": "GLASSES",
+          "value": "Eyes GY"
+        },
+        {
+          "trait_type": "Helmet",
+          "value": "Knit Green"
         }
       ]
     }
