@@ -1,0 +1,11 @@
+{
+    "name": "Monkes Twenty One / Monkes21 Special Art Editions",             
+    "inscription_icon": "",   
+    "icon": "https://orc721.github.io/monkes21/home.png", 
+    "slug": "monkes21-specials", 
+    "supply":"21",             
+    "description": "21 Rock Lines",  
+    "twitter_link": "https://twitter.com/monkes21",
+    "discord_link": "https://discord.gg/dDhvHKjm2t",
+    "website_link": "https://github.com/orc721/monkes21"
+}
