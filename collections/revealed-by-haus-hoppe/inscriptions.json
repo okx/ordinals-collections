@@ -1,0 +1,268 @@
+[
+  {
+    "id": "091697aca7edf1c54900fde2ea6be22c1dbcde2514bd8fa383e13f9f5255020ci0",
+    "meta": {
+      "name": "GRINDING",
+      "attributes": [
+        {
+          "trait_type": "artist",
+          "value": "Johannes Hoppe"
+        },
+        {
+          "trait_type": "artist2",
+          "value": "Olaf Hoppe"
+        },
+        {
+          "trait_type": "team",
+          "value": "HAUS HOPPE"
+        },
+        {
+          "trait_type": "type",
+          "value": "artwork"
+        },
+        {
+          "trait_type": "number",
+          "value": "1"
+        },
+        {
+          "trait_type": "year",
+          "value": "2024"
+        },
+        {
+          "trait_type": "title",
+          "value": "GRINDING"
+        },
+        {
+          "trait_type": "collection",
+          "value": "REVEALED"
+        },
+        {
+          "trait_type": "website",
+          "value": "https://revealed.haushoppe.art"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bd899293e7d1329ec4a088c899f487652f23e8960ab74cc8640696025467c979i0",
+    "meta": {
+      "name": "EXIT LIQUIDITY",
+      "attributes": [
+        {
+          "trait_type": "artist",
+          "value": "Johannes Hoppe"
+        },
+        {
+          "trait_type": "artist2",
+          "value": "Olaf Hoppe"
+        },
+        {
+          "trait_type": "team",
+          "value": "HAUS HOPPE"
+        },
+        {
+          "trait_type": "type",
+          "value": "artwork"
+        },
+        {
+          "trait_type": "number",
+          "value": "2"
+        },
+        {
+          "trait_type": "year",
+          "value": "2024"
+        },
+        {
+          "trait_type": "title",
+          "value": "EXIT LIQUIDITY"
+        },
+        {
+          "trait_type": "collection",
+          "value": "REVEALED"
+        },
+        {
+          "trait_type": "website",
+          "value": "https://revealed.haushoppe.art"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c5166bc88f826c2a4daa5d7a14a9c535a3de7c0eff8bc8c2e791de0511ed9416i0",
+    "meta": {
+      "name": "BROKE",
+      "attributes": [
+        {
+          "trait_type": "artist",
+          "value": "Johannes Hoppe"
+        },
+        {
+          "trait_type": "artist2",
+          "value": "Olaf Hoppe"
+        },
+        {
+          "trait_type": "team",
+          "value": "HAUS HOPPE"
+        },
+        {
+          "trait_type": "type",
+          "value": "artwork"
+        },
+        {
+          "trait_type": "number",
+          "value": "3"
+        },
+        {
+          "trait_type": "year",
+          "value": "2024"
+        },
+        {
+          "trait_type": "title",
+          "value": "BROKE"
+        },
+        {
+          "trait_type": "collection",
+          "value": "REVEALED"
+        },
+        {
+          "trait_type": "website",
+          "value": "https://revealed.haushoppe.art"
+        }
+      ]
+    }
+  },
+  {
+    "id": "534da67deea5c5b276f9945e3519dde8895a020883d8e362d7e36c9a4eed013fi0",
+    "meta": {
+      "name": "THE CABAL",
+      "attributes": [
+        {
+          "trait_type": "artist",
+          "value": "Johannes Hoppe"
+        },
+        {
+          "trait_type": "artist2",
+          "value": "Olaf Hoppe"
+        },
+        {
+          "trait_type": "team",
+          "value": "HAUS HOPPE"
+        },
+        {
+          "trait_type": "type",
+          "value": "artwork"
+        },
+        {
+          "trait_type": "number",
+          "value": "4"
+        },
+        {
+          "trait_type": "year",
+          "value": "2024"
+        },
+        {
+          "trait_type": "title",
+          "value": "THE CABAL"
+        },
+        {
+          "trait_type": "collection",
+          "value": "REVEALED"
+        },
+        {
+          "trait_type": "website",
+          "value": "https://revealed.haushoppe.art"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8d08e1685ac75dfe61203339d896e70606b0c9164c79b0886350c9cc8ddf74a2i0",
+    "meta": {
+      "name": "LEGENDS",
+      "attributes": [
+        {
+          "trait_type": "artist",
+          "value": "Johannes Hoppe"
+        },
+        {
+          "trait_type": "artist2",
+          "value": "Olaf Hoppe"
+        },
+        {
+          "trait_type": "team",
+          "value": "HAUS HOPPE"
+        },
+        {
+          "trait_type": "type",
+          "value": "artwork"
+        },
+        {
+          "trait_type": "number",
+          "value": "5"
+        },
+        {
+          "trait_type": "year",
+          "value": "2024"
+        },
+        {
+          "trait_type": "title",
+          "value": "LEGENDS"
+        },
+        {
+          "trait_type": "collection",
+          "value": "REVEALED"
+        },
+        {
+          "trait_type": "website",
+          "value": "https://revealed.haushoppe.art"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6384c346c5cfe320ef6fdbe1abd4a02d3e1cbfe51e48ac12e5148ac77b8074d9i0",
+    "meta": {
+      "name": "REVEALED (on-chain overview page, not for sale)",
+      "attributes": [
+        {
+          "trait_type": "artist",
+          "value": "Johannes Hoppe"
+        },
+        {
+          "trait_type": "artist2",
+          "value": "Olaf Hoppe"
+        },
+        {
+          "trait_type": "team",
+          "value": "HAUS HOPPE"
+        },
+        {
+          "trait_type": "type",
+          "value": "collection"
+        },
+        {
+          "trait_type": "pieces",
+          "value": "5"
+        },
+        {
+          "trait_type": "year",
+          "value": "2024"
+        },
+        {
+          "trait_type": "name",
+          "value": "REVEALED"
+        },
+        {
+          "trait_type": "website",
+          "value": "https://revealed.haushoppe.art"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d279c3692719664d36a34621577fe1ee2939950e8a914a9bf150bb723d8feb80i0",
+    "meta": {
+      "name": "REVEALED (logo, not for sale)"
+    }
+  }
+]
