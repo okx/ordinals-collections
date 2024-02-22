@@ -19,7 +19,6 @@
       ]
     }
   },
-
   {
     "id": "993386eec85c047f39d5600e0e777cde905b8594d2cec83bacb6f00dcbf2b415i0",
     "meta": {
@@ -60,7 +59,7 @@
       ]
     }
   },
-    {
+  {
     "id": "ee795b6978ffb4aa1fd7d43f1021131ff59adf3e70c4ff8d6a9ed7b1e2c7e802i0",
     "meta": {
       "name": "Ordi Cat #761",
@@ -141,6 +140,26 @@
     }
   },
   {
+    "id": "94f1af0ebc53450c222f24b53f6de23123266bf05e8b4bd4699969fe238f2bcci0",
+    "meta": {
+      "name": "Ordi Cat #1096",
+      "attributes": [
+        {
+          "trait_type": "TYPE",
+          "value": "Cat White"
+        },
+        {
+          "trait_type": "GLASSES",
+          "value": "VR Blue"
+        },
+        {
+          "trait_type": "Helmet",
+          "value": "Headphone Pink"
+        }
+      ]
+    }
+  },
+  {
     "id": "486cd6e7079c4fa358b979a9090ea372dc3ef129def735013317eca4c96076f2i0",
     "meta": {
       "name": "Ordi Cat #1287",
@@ -156,6 +175,26 @@
         {
           "trait_type": "Helmet",
           "value": "Baseball Cap Pink"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b1447ddb41687732af11695fc01d3d3c80d551524f40b37b5b69d32d43df1f34i0",
+    "meta": {
+      "name": "Ordi Cat #1295",
+      "attributes": [
+        {
+          "trait_type": "TYPE",
+          "value": "Cat Mix Grey"
+        },
+        {
+          "trait_type": "GLASSES",
+          "value": "Eyes Light"
+        },
+        {
+          "trait_type": "Helmet",
+          "value": "Baseball Cap Yellow"
         }
       ]
     }
@@ -180,23 +219,23 @@
       ]
     }
   },
-    {
+  {
     "id": "a6e33e2763b2e15ef1ba4ed44df358b4ec2a2dcd2f74f99331ecb9e8a0662df9i0",
     "meta": {
       "name": "Ordi Cat #1641",
       "attributes": [
-      {
-        "trait_type": "TYPE",
-        "value": "Cat Brown"
-      },
-      {
-        "trait_type": "GLASSES",
-        "value": "Eyes Yellow"
-      },
-      {
-        "trait_type": "Helmet",
-        "value": "Spartan Helmet"
-      }
+        {
+          "trait_type": "TYPE",
+          "value": "Cat Brown"
+        },
+        {
+          "trait_type": "GLASSES",
+          "value": "Eyes Yellow"
+        },
+        {
+          "trait_type": "Helmet",
+          "value": "Spartan Helmet"
+        }
       ]
     }
   },
@@ -220,24 +259,23 @@
       ]
     }
   },
-  
-      {
+  {
     "id": "5c5fbf6ef30c00600fb03904df0820d0777e238b51af962e37fafedeb87a6f0ci0",
     "meta": {
       "name": "Ordi Cat #1898",
       "attributes": [
-      {
-        "trait_type": "TYPE",
-        "value": "Cat White"
-      },
-      {
-        "trait_type": "GLASSES",
-        "value": "3D Glasses"
-      },
-      {
-        "trait_type": "Helmet",
-        "value": "Backwards Cap Green"
-      }
+        {
+          "trait_type": "TYPE",
+          "value": "Cat White"
+        },
+        {
+          "trait_type": "GLASSES",
+          "value": "3D Glasses"
+        },
+        {
+          "trait_type": "Helmet",
+          "value": "Backwards Cap Green"
+        }
       ]
     }
   },
@@ -261,7 +299,6 @@
       ]
     }
   },
-
   {
     "id": "ec7efd04788cb1d3bde912c7cfc4a24a689289f0d982f265e1a9fbb6cb5b76c2i0",
     "meta": {
@@ -282,7 +319,7 @@
       ]
     }
   },
-    {
+  {
     "id": "a3f9d1a93924b254950cb5d4b65d1f66e82f3ef0051c2985d47b8f87d4f20dd1i0",
     "meta": {
       "name": "Ordi Cat #2118",
