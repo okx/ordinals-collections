@@ -8902,5 +8902,805 @@
         }
       ]
     }
+  },
+  {
+    "id": "989003665c272b0ac6073b2699736a5868f4727e103bca2d9a0afa616a77cbe5i0",
+    "meta": {
+      "name": "Ordinal Cube #225 (Ordinal Army)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "1ca86e582194f00c6ab38a4faf20379038fb7e39ebfbee47e35dbfcbb60af118i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "a3a8024c5b457fa5ef45365b09d9f0c747fde1da026d72bce5688ee9c0141df5i0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "3995a11f1d0028e521985b8695879fbc765b9e7571a871a834aef843cc142ddfi0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "363fd302f4b19a53d48c3be0408925c3ea4bd94cb03e52d66355ffc4576eeebei0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "d40ab6ba5d7efb9e719805d005cc6d37048795f379e0fbb14296d5b5d050e1aei0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "32349b5e766482a1d283515420636a713915c07dba43c13a083f90e6cbd3aca8i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Ordinal Army"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6216645ad1dd84d3076766b393b36a9b841a5d2cf863a9bd057f9c2cf3767ff5i0",
+    "meta": {
+      "name": "Ordinal Cube #226 (BTC Virus)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "d5c9f2115f5c68270ef5acc2c0e83f48edfed060742060b92059fe90dae2c620i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "659a48b8dfe89382c544abc0eac4ce1f0dea163bb08746fd282daf88fc116001i0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "a39353f745195ac1adc33132bbb7e52f04008b4b49f59aa251bc619c4a908928i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "698db5db2b887b9f2860dab51e081c0726822bf2cd0ee06d21b2bbfd14c2c20ci0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "27bf31ecaa9d738af8ab7ec33071eb549be618faf719b2594918ee0aec08fe33i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "1b277a5b991ddb38ec34da8ccadc8569d105d6b0aa8bce7b2afca9d91e5bef12i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "BTC Virus"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7a7a338dd214324ac2bf0aa76b2475f0493d0af7948b9a8bd6063a96405a2720i0",
+    "meta": {
+      "name": "Ordinal Cube #227 (Bitcoin Boos)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "892648b9ea9c58663a906b6845dc8b42cf289eaf8e050d2dc497c0db670b741ci0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "2f52ce0d53bfbcf703ba8540265a521db85c6bf7cf7db1345dc5c3eb23295a7bi0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "6179cacaf4b8a38461b1f18bbb2527aedbd58fe37d2ba7f0dfe206a89e608169i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "758daab8db87002b067e494fde54137ac393fd2c02d4fd545a50c8d058f85b3fi0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "03c2d09b4455dd4a745a0814070cb957ec295026b3997ddd97b7b95ee9b760bfi0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "874d8cc3185c4f6efa674d4507ed513ea25f547ea86db249a2bc2541979f43a2i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Bitcoin Boos"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6af88ea9b95f20352a99816e1c56b23a000acbdefb649e4e9a183b17e1511522i0",
+    "meta": {
+      "name": "Ordinal Cube #228 (BTC DeGods)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "079642ed682dbec8f874ac8e13bc11c9b4f35e9000fc365fffad442a780abb3fi0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "358aab7c5bdd89190f8e2e10fe8168dfd6c4e12c9514099735dbc72506d60604i0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "8eed5efb7baac90eca4d07a4f9eb44483be74068aab843b456aa0fdf5336362ei0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "ddf69b4cb46173d86a23d5d3794420c45e768772be05b8324a6ada7f7ed836d0i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "6450aac02f0154cbc2a09b132110c2bd057162df3ea4ede7ff74292d2546e2c5i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "1e3c93a514e9ea3f76ef77253f1e7622a40298335ad4dfbacc728be04d9668b7i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "BTC DeGods"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f4b34d9d53293248e4c774f33a15ffd0750f9ec4ff5ad01f06492f4e426f892bi0",
+    "meta": {
+      "name": "Ordinal Cube #229 (Bitcoin Wizards)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "92f25dd14e1e8d573f967ac0f8a8b10c6a7db26d7b691ed2f8bcb1b12d2e570ei0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "3fca4fb11b109f3ff72286acdc7ed0fe8a686b6a0837cc8a35381cd2bd4b4da1i0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "fe59c2feb3b7ba10f6678fa25acf56c90d32740aebdfd3287feea5f3c5259491i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "a7a254080d2dec9d1b4d3d0e0c30129c350d3493314d322e966822f37f6ae802i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "4e33dbee1de9ff95af1bd4855318acb5e6c90f7f24e074245dc46fe60b123207i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "37e60b4f8748c0cfad09c6ddd86032792167d5035c51c31dac13b0ac10eec7f9i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Bitcoin Wizards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ffb17afbcddc1d308c9e57594c02bd32aba4b87d7a0deb070ef358f5b4003be7i0",
+    "meta": {
+      "name": "Ordinal Cube #230 (Ordinal Punks)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "2cdb4d76b2ef360c810072e2a5efb683167743f0071470611bcce902657515dei0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "2fe9bb034f60db694701acb23a76c3d7d5aba4328dbd315764f6ee406ba41786i0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "acda637db995df796b35035fd978cc1a947f1e6fd5215968da88b7e38a7e4b37i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "817981ee55e16367fab25d9452542c87504c00860ebfff0a8d9509463c13dc93i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "584a05c11530d8754ce7ea20cfb28d0dc6d665ec94007480cf9b4ce93d2f571di0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "5280166f62aa1893666f6d3d5d4e9c0a4b180c59682aae2dbdf84bf45b19030fi0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Ordinal Punks"
+        }
+      ]
+    }
+  },
+  {
+    "id": "776350d9b682b29b44ce31c43d85b9742a1183bd3c4e0f1d74ebf740d62a409di0",
+    "meta": {
+      "name": "Ordinal Cube #231 (Fomojis)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "258a956968b5c6304481d63d664df7466cbdff2ffa7f7bf20ea4baf65cb3ee00i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "3075e3bc3519cbfc17bb0b7d5810d47a4248c06643e0d3b5a3406052c14f749di0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "9b3225c13d318979447fa8c4768182380b56f4ae2f303dd6b782717cf19b2c9di0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "b76fb47892d05593a81d2bd7f2137e43632346bc2e282908d4fa11772155f031i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "656e61a36efcfdb968bab4b9ae88a8086e76eb5b6a660982bb2c123c55cb6449i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "193bf9e24f9a3d40083c31cb4a4872dfce8d12aedc964a55621615ffc6756107i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Fomojis"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5e8de96126ec3c2c58e2540facaf69792c5a45cfeeea8487d132b6dfa0af6d27i0",
+    "meta": {
+      "name": "Ordinal Cube #232 (Fomojis 2.0)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "84b177d53280fa4464478a7feebf486d0241ffc474496e0f57dab563a860eaf5i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "2bdd085cd6feebe34901b4626e60ea8a636158a989c4596dcf3dd97cdce3e91ei0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "e93780f3e410e48bf7177c8214885b5e47161a53ff217f7eba7cb07b49c06435i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "49da7a520a22d14b52ff08dacc6dbde7e6126e510ccc8c7a3e1bbac66e3ff96ci0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "4cfc8f5134d854ff3675d676e2915f8c8ef3f411354d6a627f69358e58ba3a58i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "a9587bc94bf51ae5cbe0b4728ff435be27897738bbd8b9833e5d9262e79f519bi0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Fomojis 2.0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e79f24bccc41b58f32cede1f7c205e8dd345e5e68de4a28826d93768383cf230i0",
+    "meta": {
+      "name": "Ordinal Cube #233 (Speculum Aeternum)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "571fcea04e78d4fb484d46d7efbd00d0baaf418fa6da06ea863eee474a572b83i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "0995fb6265b5464f99f6efa3838bb18ec53bdf391fd7a6bf3d1a9193d4c0fe6ei0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "1f1aec7eccb2ec696ca2a2833f0118a748d2112f30559f277648f1d230adc075i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "8889cc66de30aab6ad3b79446812ba47bd258f12756c69300c1a3d307e413466i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "11968fa523b2f72a3731ba72c8ffc3192c1318fc558856e747e5973007305374i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "9d0003c3dfee125b1b426d9dccc7256bde4a6301e21f0b6363a8c8e274aec66ci0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Speculum Aeternum"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d8e8c1cda525184de4108ee28e0ab7669a19c83c304e2af0b94ff9da820f6da2i0",
+    "meta": {
+      "name": "Ordinal Cube #234 (Uncommon Patterns by Nullish)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "359020e026929a01cec01f0f8a1123fe6f802b396f9b7cce2c3453dbeedf0c9ai0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "b5cce692499735a9c2dc3a947a2ac284f1d8b023c6d1d61157ef79f5d88d3257i0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "71278487645c737b8169e7fa6141241c3dbb4cd861ff3b996caaab00760131cdi0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "6398267c292300f6ac00826dd47e99be9e5964a6623bc25071735f95142310a7i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "6215a0734d9c548a45086d210adbc79e1aee51a360b6d447fb048388b41a7259i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "e6893302964b629da1f59f9c0fa25e7b9f67983fdf3d86c7fdcd595652454947i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Uncommon Patterns by Nullish"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8e21f2378fd8aad42e9a83c69c0ded2711fcc2c84c84a4894b652d7808ac0195i0",
+    "meta": {
+      "name": "Ordinal Cube #235 (Dark Ordinauts)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "2f25772c726f7a0c7aab41d6e82c5c2917b7f267f6f272586fbcfb10fa938381i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "e9b6488ca68e5cdf86bc8af038fab3df9d0a223928338f0ef11ea51005df39e1i0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "485dbc5c1ba678e3b2e2cf759139aa8b7f37e101060fee4ba2df737b5e52e5ffi0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "d49e73ae7fcb995efd7f7e09c8f399d8d8e7f06feb90639489618cb7c1deeeb0i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "4dd10d133c007669f292e240572b74383113c79fc3021b4d25fc65491b53742ai0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "afd7593e651bffd50170b8a325b9d9a6c89677d688e6372998d8b3b5e83cb341i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Dark Ordinauts"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3486482c8f546fffae6d14214567d887103c844bde4c70ff4b86e86a2fd40285i0",
+    "meta": {
+      "name": "Ordinal Cube #236 (BTC Machines)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "12aa9a228bdee9dfd23b435848e9569193911373e5083400010d943c92b6b78fi0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "e0a705fe401864ca9cb37a65e575bc85e9f4bdb51ef8a02efa577416765cb547i0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "827d8d946656034d2b9c23c3adb0886cd97a28491bfd20c68ffc66d6f6878416i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "86a767b3820e2d0f80c50015c2d65f978036e4812e0c6d181eab5c310e18ddb7i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "8b41cc656de0cb206db23981b56132e87abcea7abbe15aeaa2802c933a1a3c11i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "7f6cd53141641628679495ebb98a2f72511d689ad2ab3976a066ddd866ea922fi0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "BTC Machines"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4f7f198dde47f82e0b4ac1404463bc16b5e058319d72e00ce239b75c01627262i0",
+    "meta": {
+      "name": "Ordinal Cube #237 (Bitcoin Shrooms)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "5166a9ef575565ed67d63044fc442a8ef07b4ad20631442d477f784b4cb1bd29i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "40b3279c70d31b1c53d430a245ec012dabf173a47384f33e54db34e8e7732570i0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "5e1ba5c92673452e3422a553bf641cd634b46fc28fa27ecabffc917039de1869i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "1aa4f606890680a9b381ba4e9130894288dd21336b82cbfd75dc19db38ece937i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "adc408a32e887777007c145da9cfafda88b88917e15d06e4b0097c31cd38ab11i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "b375bcce16c91f3def7871933f1696dd3681199e0f23e90d980a87dbf57e6699i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Bitcoin Shrooms"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1cb5c21786d14793dfc1229d8bf36c406c69c68f5c5571d8d213daf7a4d9d2b0i0",
+    "meta": {
+      "name": "Ordinal Cube #238 (Persona by Rupture)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "29626a8693f9b1d2466c0d7abb5887299c63ab6e940acd7771d0d5ebe350d3e6i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "7e4f342ef0c724eaafbb7a0e4f2248bd0ff8a1f2106f8a3e96e21e3fa692c9f7i0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "fc74764113e2137b8046c6dff4b376c6e5ebae4aefb8c1cc71b8eaba0c37f715i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "cc2cc383fddfaca5b328bf2c7f74c13862b4d7705432a624c3ed9433e5a58445i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "805e10b39d9cb57e510295be27b4139d1d48f3f7126fa2967ededaf11e3ebd45i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "2537dbb35e585fb1fcae255cd6778068b7b6c7890b0ec787592b517684654261i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Persona by Rupture"
+        }
+      ]
+    }
+  },
+  {
+    "id": "11e402f9fcbe8d61a111451284367a4899c59bf70a9ef2470c57370346446221i0",
+    "meta": {
+      "name": "Ordinal Cube #239 (Block 9 by Nullish)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "10511d65e2d0dfc74ee2ad2c4f1c3c9d7ea75b6e1b5e5c104dc286b22e89bd03i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "1e2d9f36d5ab863adc1062a934e7da024b5fa7bae2f605095cabe0b4a7db01cei0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "f158cc1989077cd57a2dc3730e646c2b93e6a52ef9f8cafa188d08fda5d8c231i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "842d61b8ed923c564665ce3c4bae6fee42292f6d6e5d0258e53232a3c09a8d5bi0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "5c791b1d38cbefa7ad0a17f19ff219741c27fe5b9e3e648532a581c7253800c9i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "3b2eec65288f2d0b3bbe3ec6d826e61b89e2dc404fa423be8530f180a0887655i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Block 9 by Nullish"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1aca061a3935854caa798b6d0f95f9840bc0caa235aada8a5beaa6b0fbbc1e48i0",
+    "meta": {
+      "name": "Ordinal Cube #240 (Ordinauts)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "4f2c4a464d5d814bb41b196c3205287d3839c9320c52ef6bfeee27403601c082i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "25f49bb3f86e57acded4db92fb8a67185369f05928c499210a0527726461264fi0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "0312c0179c7800c565c0d45ebcf3d81fa593e511d26234f6d886ed04aaeb8b37i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "c3e6d0d5beb03dea7fb76b79fbb3ab2696b274650a4c4ed3575049b8e79f4857i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "e4929b4817da0288cab4d42b6bed50c810d36e989f15a3fe32d1329346acacf8i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "b676c1672422f63a673e8d7537708b8d940616ff55bd0d5a371851b272b3e53ai0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Ordinauts"
+        }
+      ]
+    }
+  },
+  {
+    "id": "734c148b4c06cc947f535c7ddf4b0cd4e67f565b70095010b50fcd7de9671833i0",
+    "meta": {
+      "name": "Ordinal Cube #241 (Top Ordinal)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "6fb976ab49dcec017f1e201e84395983204ae1a7c2abf7ced0a85d692e442799i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "26482871f33f1051f450f2da9af275794c0b5f1c61ebf35e4467fb42c2813403i0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "c17dd02a7f216f4b438ab1a303f518abfc4d4d01dcff8f023cf87c4403cb54cai0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "fb3c060cd4506731c3295311e9bc0e8d8d0d865f72c5175494c9acb31710e3dfi0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "c748a10a0b4d28b9a44cb0637aad24fa60ace435951fb7b83bdf43adc30c2281i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "d95c0fb86bc0f0dce6a732c5ab77d47e33ed24099bdb01133f768cef75a47724i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Top Ordinal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ce91cbea88c7a016624af0e214fdad52ac5455e0c46492b2adfffc240d22cc91i0",
+    "meta": {
+      "name": "Ordinal Cube #242 (OrdSkull)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "57454fa3b1508fcd8a32260dbb30f5304d5096c06c59d4bb42eb8aad449d5b20i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "548757f1ec33ae1789072bbbe83b347371d20c1c5969cd49f36f72a515f6c6a0i0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "95ac25c3b1f949f6b016973479ae265288ac02dcc2f7f1d47fbc49d0ac56acd6i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "728b3cc8b5e9508adef2b8f7dee92dc605fb6193bf075045788199fbca494fc9i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "f7438cd6c413278574877af50637500ec667d7ddff4d0eccaedfa007cf270dcei0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "05f9591bae6d8989258021d8bb299a3f29f98ef237240798fcb2881995f59b6ci0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "OrdSkull"
+        }
+      ]
+    }
+  },
+  {
+    "id": "afa2a549f5a203f6788a7c00884fb115a2802f7a3b9bd377bb5af253e6b7273bi0",
+    "meta": {
+      "name": "Ordinal Cube #243 (Bitcoin Wizards)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "2c6089b0b83ef5a58dbaae02dc11a6de3c6458fba2acee9d0a6fb4768674c8c7i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "2c6089b0b83ef5a58dbaae02dc11a6de3c6458fba2acee9d0a6fb4768674c8c7i0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "2c6089b0b83ef5a58dbaae02dc11a6de3c6458fba2acee9d0a6fb4768674c8c7i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "2c6089b0b83ef5a58dbaae02dc11a6de3c6458fba2acee9d0a6fb4768674c8c7i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "2c6089b0b83ef5a58dbaae02dc11a6de3c6458fba2acee9d0a6fb4768674c8c7i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "2c6089b0b83ef5a58dbaae02dc11a6de3c6458fba2acee9d0a6fb4768674c8c7i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Bitcoin Wizards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5e57ec2bcd687ed03aebd754e598d1b1900cc4386beb65d6d0297415702ef998i0",
+    "meta": {
+      "name": "Ordinal Cube #244 (Rocks Cube)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "e8ce0fcb238b377b3a6b9921333e26fbec5c5724c5bf6e783c3dcc1129794508i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "700441591fd0763b7eb6991d571752f6efe5ba539b0ceda34297c7354a60e3bdi0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "6ec9432c658cd3535033f179d849c0afcdd3f2e2f2377d3042086c5008aefda3i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "5a0bd070a06302435981454e3ced97ebdc9dea3dc2e24998a80d563f3f6a7867i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "a3df1e16152afc4f75a161b3a64bcad2fc9248db75bef93c54884fe71460cb4fi0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "87b28e0ccbd2bf4e992674070daa64b8f8546e5c4cb2bf50fe57ac320535d231i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Rocks Cube"
+        }
+      ]
+    }
   }
 ]
